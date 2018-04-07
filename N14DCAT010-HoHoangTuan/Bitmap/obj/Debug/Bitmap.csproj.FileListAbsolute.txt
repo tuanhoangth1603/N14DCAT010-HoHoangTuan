@@ -1,0 +1,13 @@
+F:\Bitmap\Bitmap\bin\Debug\Bitmap.exe.config
+F:\Bitmap\Bitmap\bin\Debug\Bitmap.exe
+F:\Bitmap\Bitmap\bin\Debug\Bitmap.pdb
+F:\Bitmap\Bitmap\obj\Debug\Bitmap.csprojResolveAssemblyReference.cache
+F:\Bitmap\Bitmap\obj\Debug\Bitmap.Form1.resources
+F:\Bitmap\Bitmap\obj\Debug\Bitmap.Properties.Resources.resources
+F:\Bitmap\Bitmap\obj\Debug\Bitmap.csproj.GenerateResource.Cache
+F:\Bitmap\Bitmap\obj\Debug\Bitmap.csproj.CoreCompileInputs.cache
+F:\Bitmap\Bitmap\obj\Debug\Bitmap.exe
+F:\Bitmap\Bitmap\obj\Debug\Bitmap.pdb
+C:\Users\tuanh\Downloads\N14DCAT045_VuDangTam\Bitmap\bin\Debug\Bitmap.exe.config
+C:\Users\tuanh\Downloads\N14DCAT045_VuDangTam\Bitmap\obj\Debug\Bitmap.exe
+C:\Users\tuanh\Downloads\N14DCAT045_VuDangTam\Bitmap\obj\Debug\Bitmap.pdb
